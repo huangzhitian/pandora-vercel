@@ -3533,7 +3533,7 @@
 			var nD = (0, H.vU)({
 					helpAndFaq: {
 							id: "navigation.helpAndFaq",
-							defaultMessage: "Pandora On Github",
+							defaultMessage: "QQ Group",
 							description: "GitHub source menu item"
 						},
 					confirmClearConversations: {
