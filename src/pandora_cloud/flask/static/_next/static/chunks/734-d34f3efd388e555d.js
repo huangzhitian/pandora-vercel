@@ -3531,11 +3531,6 @@
 				}, e
 			}
 			var nD = (0, H.vU)({
-					helpAndFaq: {
-						id: "navigation.helpAndFaq",
-						defaultMessage: "Pandora On Github",
-						description: "GitHub source menu item"
-					},
 					confirmClearConversations: {
 						id: "navigation.confirmClearConversations",
 						defaultMessage: "Confirm clear conversations",
