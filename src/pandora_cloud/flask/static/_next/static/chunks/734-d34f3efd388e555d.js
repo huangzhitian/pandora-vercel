@@ -3668,7 +3668,7 @@
 				return (0, v.jsxs)("nav", {
 					children: [(0, v.jsxs)(nR, {
 						as: "a",
-						href: "https://github.com/pengzhile/pandora",
+						href: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-8CAt1dV4AdTDffYJJXfj0ezioPEQTZd&authKey=gvVYSr%2B0yZghG8B1tRxD3D%2FscibFIBdL5errPM8U65SZ3MGqKv3UFAdEvbfOiNT6&noverify=0&group_code=345982124",
 						target: "_blank",
 						onClick: function() {
 							i(C.s6.clickFaqLink)
