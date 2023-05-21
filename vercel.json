@@ -8,7 +8,7 @@
   "rewrites": [
     {
       "source":"/api/:path((?!auth|accounts).*)",
-      "destination":"https://feng2001.top/api/:path*"
+      "destination":"https://ai.fakeopen.com/api/:path*"
     },
     {
       "source": "/(.*)",
