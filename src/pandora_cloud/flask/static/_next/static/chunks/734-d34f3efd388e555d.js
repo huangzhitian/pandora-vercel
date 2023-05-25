@@ -10255,7 +10255,7 @@
 					t = (0, k.nR)();
 				return (0, v.jsxs)(i0, {
 					children: [(0, v.jsxs)(i1, {
-						children: ["Unofficial ChatGPT", t && (0, v.jsx)(rQ, {
+						children: ["枫妹のChatGPT", t && (0, v.jsx)(rQ, {
 							children: "Plus"
 						})]
 					}), (0, v.jsxs)(i2, {
@@ -10428,7 +10428,7 @@
 							availableModels: F,
 							modelBackend: O
 						}), (0, v.jsxs)(od, {
-							children: ["Unofficial ChatGPT", A && (0, v.jsx)
+							children: ["枫妹のChatGPT", A && (0, v.jsx)
 								(rQ, {
 									children: "Plus"
 								})
