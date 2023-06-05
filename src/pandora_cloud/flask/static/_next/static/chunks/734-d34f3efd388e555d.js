@@ -11565,7 +11565,7 @@
 						className: "flex w-full flex-row items-center justify-between border-b px-4 py-3 dark:border-gray-700",
 						children: [(0, v.jsx)("span", {
 							className: "text-base font-semibold sm:text-base",
-							children: "Your plan"
+							children: "你的计划"
 						}), (0, v.jsx)("button", {
 							className: "text-gray-700 opacity-50 transition hover:opacity-75 dark:text-white",
 							onClick: l,
