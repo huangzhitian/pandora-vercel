@@ -3538,12 +3538,12 @@
 						},
 					confirmClearConversations: {
 						id: "navigation.confirmClearConversations",
-						defaultMessage: "Confirm clear conversations",
+						defaultMessage: "确认清除所有会话？",
 						description: "Confirmation text for clearing conversations"
 					},
 					clearConversations: {
 						id: "navigation.clearConversations",
-						defaultMessage: "清除会话",
+						defaultMessage: "清除所有会话",
 						description: "Clear conversations menu item"
 					},
 					myPlan: {
