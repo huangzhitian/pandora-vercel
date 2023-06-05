@@ -3533,7 +3533,7 @@
 			var nD = (0, H.vU)({
 					helpAndFaq: {
 							id: "navigation.helpAndFaq",
-							defaultMessage: "QQ Group",
+							defaultMessage: "QQ交流群",
 							description: "GitHub source menu item"
 						},
 					confirmClearConversations: {
@@ -3543,12 +3543,12 @@
 					},
 					clearConversations: {
 						id: "navigation.clearConversations",
-						defaultMessage: "Clear conversations",
+						defaultMessage: "清除会话",
 						description: "Clear conversations menu item"
 					},
 					myPlan: {
 						id: "navigation.myPlan",
-						defaultMessage: "My plan",
+						defaultMessage: "我的计划",
 						description: "My plan menu item"
 					},
 					myProfile: {
@@ -3558,12 +3558,12 @@
 					},
 					settings: {
 						id: "navigation.settings",
-						defaultMessage: "Settings",
+						defaultMessage: "设置",
 						description: "Settings menu item"
 					},
 					logOut: {
 						id: "navigation.logOut",
-						defaultMessage: "Log out",
+						defaultMessage: "退出登录",
 						description: "Log out menu item"
 					},
 					upgradeToPlus: {
@@ -3573,7 +3573,7 @@
 					},
 					newChat: {
 						id: "navigation.newChat",
-						defaultMessage: "New chat",
+						defaultMessage: "新聊天",
 						description: "New chat button label"
 					},
 					clearChat: {
