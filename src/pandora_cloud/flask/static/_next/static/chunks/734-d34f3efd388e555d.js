@@ -2613,7 +2613,7 @@
 			var np = (0, H.vU)({
 				settings: {
 					id: "settingsModal.settings",
-					defaultMessage: "Settings",
+					defaultMessage: "设置",
 					description: "Title for the settings modal"
 				},
 				theme: {
