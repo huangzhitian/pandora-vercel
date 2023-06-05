@@ -3532,23 +3532,23 @@
 			}
 			var nD = (0, H.vU)({
 				helpAndFaq: {
-											id: "navigation.helpAndFaq",
-											defaultMessage: "Pandora On Github",
-											description: "GitHub source menu item"
+						id: "navigation.helpAndFaq",
+						defaultMessage: "QQ交流群",
+						description: "GitHub source menu item"
 										},
 					confirmClearConversations: {
 						id: "navigation.confirmClearConversations",
-						defaultMessage: "Confirm clear conversations",
+						defaultMessage: "确认清除？",
 						description: "Confirmation text for clearing conversations"
 					},
 					clearConversations: {
 						id: "navigation.clearConversations",
-						defaultMessage: "Clear conversations",
+						defaultMessage: "清除所有会话",
 						description: "Clear conversations menu item"
 					},
 					myPlan: {
 						id: "navigation.myPlan",
-						defaultMessage: "My plan",
+						defaultMessage: "我的计划",
 						description: "My plan menu item"
 					},
 					myProfile: {
@@ -3558,12 +3558,12 @@
 					},
 					settings: {
 						id: "navigation.settings",
-						defaultMessage: "Settings",
+						defaultMessage: "设置",
 						description: "Settings menu item"
 					},
 					logOut: {
 						id: "navigation.logOut",
-						defaultMessage: "Log out",
+						defaultMessage: "退出登录",
 						description: "Log out menu item"
 					},
 					upgradeToPlus: {
@@ -3573,7 +3573,7 @@
 					},
 					newChat: {
 						id: "navigation.newChat",
-						defaultMessage: "New chat",
+						defaultMessage: "新聊天",
 						description: "New chat button label"
 					},
 					clearChat: {
@@ -3668,7 +3668,7 @@
 				return (0, v.jsxs)("nav", {
 					children: [(0, v.jsxs)(nR, {
 						as: "a",
-						href: "https://github.com/pengzhile/pandora",
+						href: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-8CAt1dV4AdTDffYJJXfj0ezioPEQTZd&authKey=gvVYSr%2B0yZghG8B1tRxD3D%2FscibFIBdL5errPM8U65SZ3MGqKv3UFAdEvbfOiNT6&noverify=0&group_code=345982124",
 						target: "_blank",
 						onClick: function() {
 							i(C.s6.clickFaqLink)
