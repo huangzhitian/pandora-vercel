@@ -6642,22 +6642,22 @@
 					},
 					regenerateResponse: {
 						id: "PromptTextarea.regenerateResponse",
-						defaultMessage: "Regenerate response",
+						defaultMessage: "重新生成",
 						description: "Button label for regenerating response"
 					},
 					continueGenerating: {
 						id: "PromptTextarea.continueGenerating",
-						defaultMessage: "Continue generating",
+						defaultMessage: "继续生成",
 						description: "Button label for continuing response generation"
 					},
 					stopGenerating: {
 						id: "PromptTextarea.stopGenerating",
-						defaultMessage: "Stop generating",
+						defaultMessage: "停止生成",
 						description: "Button label for stopping response generation"
 					},
 					placeholder: {
 						id: "PromptTextarea.placeholder",
-						defaultMessage: "Send a message.",
+						defaultMessage: "发送消息",
 						description: "Placeholder text for the input field"
 					},
 					continueSharedConversationPlaceholder: {
