@@ -3578,27 +3578,27 @@
 					},
 					clearChat: {
 						id: "navigation.clearChat",
-						defaultMessage: "Clear chat",
+						defaultMessage: "清除聊天",
 						description: "Clear chat button label"
 					},
 					chatHistoryOff: {
 						id: "navigation.chatHistoryOff",
-						defaultMessage: "Chat History is off.",
+						defaultMessage: "聊天记录已关闭",
 						description: "Text indicating that chat history is turned off"
 					},
 					chatHistoryOffDescription: {
 						id: "navigation.chatHistoryOffDescription",
-						defaultMessage: "Chats won’t be saved in your history or used for training our models to improve ChatGPT. Unsaved chats will be deleted from our systems within 30 days. {learnMore}",
+						defaultMessage: "聊天不会保存在您的历史记录中，也不会用于训练我们的模型以改进 ChatGPT。未保存的聊天将在 30 天内从我们的系统中删除 {learnMore}",
 						description: "Description for chat history being off"
 					},
 					learnMore: {
 						id: "navigation.learnMore",
-						defaultMessage: "Learn more",
+						defaultMessage: "了解更多",
 						description: "Learn more link text"
 					},
 					enableChatHistory: {
 						id: "navigation.enableChatHistory",
-						defaultMessage: "Enable chat history",
+						defaultMessage: "启用聊天记录",
 						description: "Enable chat history button label"
 					},
 					closeSidebar: {
