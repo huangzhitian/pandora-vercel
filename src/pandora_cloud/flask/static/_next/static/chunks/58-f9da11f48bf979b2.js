@@ -516,13 +516,13 @@
 					modelFeatures: "Regular model updates"
 				},
 				plus: {
-					name: "ChatGPT Plus",
+					name: "ChatGPT Plus ",
 					callToAction: {
 						active: "您当前的计划",
 						inactive: "I'm interested",
 						inactivePayment: "Upgrade plan"
 					},
-					costInDollars: " $20/月",
+					costInDollars: "  $20/月",
 					demandAccess: "即使在高负载时也可用",
 					responseSpeed: "更快的响应速度",
 					modelFeatures: "优先访问新功能"
