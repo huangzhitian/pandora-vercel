@@ -2863,22 +2863,22 @@
 				},
 				generalTab: {
 					id: "settingsModal.general",
-					defaultMessage: "General",
+					defaultMessage: "常规",
 					description: "Label for the general tab"
 				},
 				betaTab: {
 					id: "settingsModal.beta",
-					defaultMessage: "Beta features",
+					defaultMessage: "测试版功能",
 					description: "Label for the Beta Features tab"
 				},
 				clearChatLabel: {
 					id: "settingsModal.clearChatLabel",
-					defaultMessage: "Clear all chats",
+					defaultMessage: "清除所有会话",
 					description: "Label for the clear chat button"
 				},
 				clearChatButton: {
 					id: "settingsModal.clearChatButton",
-					defaultMessage: "Clear",
+					defaultMessage: "清除",
 					description: "Clear chat button"
 				}
 			});
