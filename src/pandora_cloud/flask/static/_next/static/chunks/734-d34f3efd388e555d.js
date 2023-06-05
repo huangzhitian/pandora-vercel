@@ -1548,37 +1548,37 @@
 			var ej = (0, H.vU)({
 					historyBucketToday: {
 						id: "history.bucket.today",
-						defaultMessage: "Today",
+						defaultMessage: "今天",
 						description: "Label for today's history bucket"
 					},
 					historyBucketYesterday: {
 						id: "history.bucket.yesterday",
-						defaultMessage: "Yesterday",
+						defaultMessage: "昨天",
 						description: "Label for yesterday's history bucket"
 					},
 					historyBucketLastSeven: {
 						id: "history.bucket.lastSeven",
-						defaultMessage: "Previous 7 Days",
+						defaultMessage: "过去7天",
 						description: "Label for the history bucket of the previous 7 days"
 					},
 					historyBucketLastThirty: {
 						id: "history.bucket.lastThirty",
-						defaultMessage: "Previous 30 Days",
+						defaultMessage: "过去30天",
 						description: "Label for the history bucket of the previous 30 days"
 					},
 					unableToLoadHistory: {
 						id: "history.unableToLoad",
-						defaultMessage: "Unable to load history",
+						defaultMessage: "无法加载历史记录",
 						description: "Error message when history fails to load"
 					},
 					retryButton: {
 						id: "history.retryButton",
-						defaultMessage: "Retry",
+						defaultMessage: "重试",
 						description: "Button to retry loading history"
 					},
 					showMoreButton: {
 						id: "history.showMoreButton",
-						defaultMessage: "Show more",
+						defaultMessage: "显示更多",
 						description: "Button to show more history items"
 					}
 				}),
