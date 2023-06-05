@@ -2828,7 +2828,7 @@
 				},
 				betaSettingsUpdateFailed: {
 					id: "settingsModal.betaSettingsUpdateFailed",
-					defaultMessage: "Failed to update your beta setting",
+					defaultMessage: "无法更新您的测试版设置",
 					description: "Message shown when there's an error updating beta settings"
 				},
 				betaPluginToggleLabel: {
