@@ -2618,32 +2618,32 @@
 				},
 				theme: {
 					id: "settingsModal.theme",
-					defaultMessage: "Theme",
+					defaultMessage: "主题",
 					description: "Label for the theme setting"
 				},
 				system: {
 					id: "settingsModal.system",
-					defaultMessage: "System",
+					defaultMessage: "系统",
 					description: "Option for the system theme"
 				},
 				dark: {
 					id: "settingsModal.dark",
-					defaultMessage: "Dark",
+					defaultMessage: "黑夜",
 					description: "Option for the dark theme"
 				},
 				light: {
 					id: "settingsModal.light",
-					defaultMessage: "Light",
+					defaultMessage: "白天",
 					description: "Option for the light theme"
 				},
 				exportData: {
 					id: "settingsModal.exportData",
-					defaultMessage: "Export data",
+					defaultMessage: "导出数据",
 					description: "Label for the export data button"
 				},
 				exportButton: {
 					id: "settingsModal.exportButton",
-					defaultMessage: "Export",
+					defaultMessage: "导出",
 					description: "Export data button"
 				},
 				deleteAccount: {
@@ -2683,7 +2683,7 @@
 				},
 				chatHistoryDescription: {
 					id: "settingsModal.chatHistoryDescription",
-					defaultMessage: "Save new chats to your history and allow them to be used to improve ChatGPT via model training. Unsaved chats will be deleted from our systems within 30 days. <link>Learn more</link>",
+					defaultMessage: "将新的聊天记录保存到您的历史记录中，并使用它们来通过模型训练来提高 ChatGPT 的性能。未保存的聊天记录将在 30 天后从我们的系统中删除<link>了解更多</link>",
 					description: "Description for the chat history setting"
 				},
 				dataExportRequested: {
@@ -2813,17 +2813,17 @@
 				},
 				chatHistoryToggleLabel: {
 					id: "settingsModal.chatHistoryToggleLabel",
-					defaultMessage: "Chat History & Training",
+					defaultMessage: "聊天记录和训练",
 					description: "Label for the chat history toggle."
 				},
 				dataControlsTab: {
 					id: "settingsModal.dataControls",
-					defaultMessage: "Data controls",
+					defaultMessage: "数据管理",
 					description: "Label for the data controls tab"
 				},
 				betaIntro: {
 					id: "settingsModal.betaIntro",
-					defaultMessage: "As a Plus user, enjoy early access to experimental new features, which may change during development.",
+					defaultMessage: "作为Plus用户，您可以提前体验实验性的新功能，这些功能在开发过程中可能会发生改变。",
 					description: "Introduction for the beta features tab"
 				},
 				betaSettingsUpdateFailed: {
@@ -2833,32 +2833,32 @@
 				},
 				betaPluginToggleLabel: {
 					id: "settingsModal.betaPluginToggleLabel",
-					defaultMessage: "Plugins",
+					defaultMessage: "插件",
 					description: "Label for the Plugins beta toggle."
 				},
 				betaPluginToggleDescription: {
 					id: "settingsModal.betaPluginToggleDescription",
-					defaultMessage: "Try a version of ChatGPT that knows when and how to use third-party plugins that you enable.",
+					defaultMessage: "尝试一种另 ChatGPT 的版本，它知道什么时候以及如何使用你启用的第三方插件",
 					description: "Description for the Plugins beta toggle."
 				},
 				betaBrowsingToggleLabel: {
 					id: "settingsModal.betaBrowsingToggleLabel",
-					defaultMessage: "Web browsing",
+					defaultMessage: "网页浏览",
 					description: "Label for the Browsing beta toggle."
 				},
 				betaBrowsingToggleDescription: {
 					id: "settingsModal.betaBrowsingToggleDescription",
-					defaultMessage: "Try a version of ChatGPT that knows when and how to browse the internet to answer questions about recent topics and events.",
+					defaultMessage: "尝试另一种 ChatGPT 的版本，它知道如何浏览互联网，以回答关于最近话题和事件的问题",
 					description: "Description for the Browsing beta toggle."
 				},
 				betaCodeInterpreterToggleLabel: {
 					id: "settingsModal.betaCodeInterpreterToggleLabel",
-					defaultMessage: "Code interpreter",
+					defaultMessage: "代码解析器",
 					description: "Label for the Code interpreter beta toggle."
 				},
 				betaCodeInterpreterToggleDescription: {
 					id: "settingsModal.betaCodeInterpreterToggleDescription",
-					defaultMessage: "Your favorite GPT models now use a python sandbox. Once enabled, ChatGPT can build and run python code.",
+					defaultMessage: "你最喜欢的 GPT 模型现在使用 Python 沙盒。启用后，ChatGPT 可以构建和运行 Python 代码",
 					description: "Description for the Code interpreter beta toggle."
 				},
 				generalTab: {
