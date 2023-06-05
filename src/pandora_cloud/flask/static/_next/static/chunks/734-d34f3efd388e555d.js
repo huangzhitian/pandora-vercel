@@ -2863,22 +2863,22 @@
 				},
 				generalTab: {
 					id: "settingsModal.general",
-					defaultMessage: "常规",
+					defaultMessage: "General",
 					description: "Label for the general tab"
 				},
 				betaTab: {
 					id: "settingsModal.beta",
-					defaultMessage: "测试版功能",
+					defaultMessage: "Beta features",
 					description: "Label for the Beta Features tab"
 				},
 				clearChatLabel: {
 					id: "settingsModal.clearChatLabel",
-					defaultMessage: "清除所有聊天",
+					defaultMessage: "Clear all chats",
 					description: "Label for the clear chat button"
 				},
 				clearChatButton: {
 					id: "settingsModal.clearChatButton",
-					defaultMessage: "清除",
+					defaultMessage: "Clear",
 					description: "Clear chat button"
 				}
 			});
@@ -3531,20 +3531,25 @@
 				}, e
 			}
 			var nD = (0, H.vU)({
-					helpAndFaq: {
-							id: "navigation.helpAndFaq",
-							defaultMessage: "QQ交流群",
-							description: "GitHub source menu item"
-						},
+				helpAndFaq: {
+											id: "navigation.helpAndFaq",
+											defaultMessage: "Pandora On Github",
+											description: "GitHub source menu item"
+										},
 					confirmClearConversations: {
 						id: "navigation.confirmClearConversations",
-						defaultMessage: "确认清除所有会话？",
+						defaultMessage: "Confirm clear conversations",
 						description: "Confirmation text for clearing conversations"
 					},
 					clearConversations: {
 						id: "navigation.clearConversations",
-						defaultMessage: "清除所有会话",
+						defaultMessage: "Clear conversations",
 						description: "Clear conversations menu item"
+					},
+					myPlan: {
+						id: "navigation.myPlan",
+						defaultMessage: "My plan",
+						description: "My plan menu item"
 					},
 					myProfile: {
 						id: "navigation.myProfile",
@@ -3553,12 +3558,12 @@
 					},
 					settings: {
 						id: "navigation.settings",
-						defaultMessage: "设置",
+						defaultMessage: "Settings",
 						description: "Settings menu item"
 					},
 					logOut: {
 						id: "navigation.logOut",
-						defaultMessage: "退出登录",
+						defaultMessage: "Log out",
 						description: "Log out menu item"
 					},
 					upgradeToPlus: {
@@ -3568,7 +3573,7 @@
 					},
 					newChat: {
 						id: "navigation.newChat",
-						defaultMessage: "新聊天",
+						defaultMessage: "New chat",
 						description: "New chat button label"
 					},
 					clearChat: {
@@ -3663,7 +3668,7 @@
 				return (0, v.jsxs)("nav", {
 					children: [(0, v.jsxs)(nR, {
 						as: "a",
-						href: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-8CAt1dV4AdTDffYJJXfj0ezioPEQTZd&authKey=gvVYSr%2B0yZghG8B1tRxD3D%2FscibFIBdL5errPM8U65SZ3MGqKv3UFAdEvbfOiNT6&noverify=0&group_code=345982124",
+						href: "https://github.com/pengzhile/pandora",
 						target: "_blank",
 						onClick: function() {
 							i(C.s6.clickFaqLink)
@@ -10250,7 +10255,7 @@
 					t = (0, k.nR)();
 				return (0, v.jsxs)(i0, {
 					children: [(0, v.jsxs)(i1, {
-						children: ["枫妹のChatGPT", t && (0, v.jsx)(rQ, {
+						children: ["Unofficial ChatGPT", t && (0, v.jsx)(rQ, {
 							children: "Plus"
 						})]
 					}), (0, v.jsxs)(i2, {
@@ -10423,7 +10428,7 @@
 							availableModels: F,
 							modelBackend: O
 						}), (0, v.jsxs)(od, {
-							children: ["枫妹のChatGPT", A && (0, v.jsx)
+							children: ["Unofficial ChatGPT", A && (0, v.jsx)
 								(rQ, {
 									children: "Plus"
 								})
