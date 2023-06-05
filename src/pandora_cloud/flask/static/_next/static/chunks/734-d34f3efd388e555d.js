@@ -3546,11 +3546,6 @@
 						defaultMessage: "清除所有会话",
 						description: "Clear conversations menu item"
 					},
-					myPlan: {
-						id: "navigation.myPlan",
-						defaultMessage: "我的计划",
-						description: "My plan menu item"
-					},
 					myProfile: {
 						id: "navigation.myProfile",
 						defaultMessage: "My profile",
