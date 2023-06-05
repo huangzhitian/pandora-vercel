@@ -2698,37 +2698,37 @@
 				},
 				dataExportModalTitle: {
 					id: "settingsModal.dataExportModalTitle",
-					defaultMessage: "Request data export - are you sure?",
+					defaultMessage: "确定请求导出数据吗?",
 					description: "Title for the data export modal"
 				},
 				dataExportModalConfirm: {
 					id: "settingsModal.dataExportModalConfirm",
-					defaultMessage: "Confirm export",
+					defaultMessage: "确认导出",
 					description: "Confirm button for the data export modal"
 				},
 				dataExportModalCancel: {
 					id: "settingsModal.dataExportModalCancel",
-					defaultMessage: "Cancel",
+					defaultMessage: "取消",
 					description: "Cancel button for the data export modal"
 				},
 				dataExportModalDescription1: {
 					id: "settingsModal.dataExportModalDescription1",
-					defaultMessage: "Your account details and conversations will be included in the export.",
+					defaultMessage: "您的账户详情和对话记录将被包含在导出数据中.",
 					description: "Description for the data export modal"
 				},
 				dataExportModalDescription2: {
 					id: "settingsModal.dataExportModalDescription2",
-					defaultMessage: "The data will be sent to your registered email in a downloadable file.",
+					defaultMessage: "数据将以可下载文件的形式发送至您注册的电子邮件地址",
 					description: "Description for the data export modal"
 				},
 				dataExportModalDescription3: {
 					id: "settingsModal.dataExportModalDescription3",
-					defaultMessage: "Processing may take some time. You'll be notified when it's ready.",
+					defaultMessage: "处理可能需要一些时间。处理完成后会通知您",
 					description: "Description for the data export modal"
 				},
 				dataExportModalDescription4: {
 					id: "settingsModal.dataExportModalDescription4",
-					defaultMessage: 'To proceed, click "Confirm export" below.',
+					defaultMessage: '请点击下方的“确认导出”按钮以继续',
 					description: "Description for the data export modal"
 				},
 				deleteAccountSessionTooOld: {
