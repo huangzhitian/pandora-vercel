@@ -3531,11 +3531,11 @@
 				}, e
 			}
 			var nD = (0, H.vU)({
-// 				helpAndFaq: {
-// 						id: "navigation.helpAndFaq",
-// 						defaultMessage: "QQ交流群",
-// 						description: "GitHub source menu item"
-// 										},
+				helpAndFaq: {
+						id: "navigation.helpAndFaq",
+						defaultMessage: "QQ交流群",
+ 						description: "GitHub source menu item"
+ 										},
 					confirmClearConversations: {
 						id: "navigation.confirmClearConversations",
 						defaultMessage: "确认清除？",
