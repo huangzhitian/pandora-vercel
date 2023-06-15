@@ -8,7 +8,7 @@
   "rewrites": [
     {
       "source":"/api/:path((?!auth|accounts).*)",
-      "destination":"https://gpt.iqach.top:path*"
+      "destination":"https://chat-shared1.zhile.io:path*"
     },
     {
       "source":"/v1/:path(.*)",
