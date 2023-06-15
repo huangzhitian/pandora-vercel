@@ -8,7 +8,7 @@
   "rewrites": [
     {
       "source":"/api/:path((?!auth|accounts).*)",
-      "destination":"https://proxy.feng2001.top/proxy/https://chat.openai.com/backend-api:path*"
+      "destination":"https://gpt.iqach.top:path*"
     },
     {
       "source":"/v1/:path(.*)",
