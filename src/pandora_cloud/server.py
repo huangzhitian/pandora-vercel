@@ -23,7 +23,7 @@ class ChatBot:
         self.login_local = getenv('LOGIN_LOCAL',True)
         self.log_level = logging.DEBUG if debug else logging.WARN
         self.api_prefix = getenv('CHATGPT_API_PREFIX',
-                                 'https://gpt.iqach.top')
+                                 'https://chat-shared1.zhile.io')
 
     @staticmethod
     def after_request(resp):
