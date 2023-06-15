@@ -7,7 +7,7 @@
   ],
   "rewrites": [
     {
-      "source":"/api/:path((?!auth|accounts).*)",
+      "source":"/backend-api/:path((?!auth|accounts).*)",
       "destination":"https://proxy.feng2001.top/proxy/https://chat.openai.com:path*"
     },
     {
